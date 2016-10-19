@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Alternate Text"
+msgstr "Texte alternatif"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Animation Speed"
+msgstr "La vitesse d'animation"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Background color for caption"
+msgstr "La couleur de fond pour la légende"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Style"
+msgstr "Style de bordure"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Width"
+msgstr "Largeur de la bordure"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Box Shadow for border. (h-shadow v-shadow blur spread color). It will work in Pro Version "
+msgstr "Shadow Box pour frontière. (H-ombre ou ombre-flou couleur de propagation). Il travaillera en version Pro"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Background Color"
+msgstr "Légende couleur de fond"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text"
+msgstr "Légende texte"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text Color"
+msgstr "Légende Couleur du texte"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose border type"
+msgstr "Choisissez le type de frontière"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose hover effect"
+msgstr "Choisissez effet hover"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Eg: 1s or 500ms. It will work in Pro Version"
+msgstr "Par exemple: 1s ou 500ms. Il travaillera en version Pro"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Enter URL to link caption"
+msgstr "Entrez URL pour vous reliez légende"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Hover Effect"
+msgstr "Hover effet"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Image"
+msgstr "Image"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as alt attribute of img tag"
+msgstr "Il sera utilisé comme attribut alt de balise img"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as title attribute of img tag"
+msgstr "Il sera utilisé comme titre attribut de balise img"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link Target"
+msgstr "link Target"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link To"
+msgstr "Lié à"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Provide Caption Here"
+msgstr "Fournir Légende ici"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Radius of border eg: 5px or 50%. It will work in Pro Version. "
+msgstr "Rayon de la frontière, par exemple: 5px ou 50%. Il travaillera en version Pro."
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the color for border"
+msgstr "Sélectionnez la couleur de la frontière"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the image"
+msgstr "Sélectionnez l'image"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Shadow"
+msgstr "Ombre"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Text color for caption"
+msgstr "Couleur du texte pour la légende"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Title"
+msgstr "Titre"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Width of border, eg: 15px. Leaving blank will disable border"
+msgstr "Largeur de la frontière, par exemple: 15px. Laissant vierge désactivera frontière"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Write _blank to open link in new window"
+msgstr "Ecrire _blank pour ouvrir le lien dans une nouvelle fenêtre"

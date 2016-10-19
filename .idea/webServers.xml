@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ceaea9d-f658-44cf-91a8-e386e991a2f7" name="Cafe Aconcagua" url="http://ftp.cafeaconcagua.cl">
+        <fileTransfer host="ftp.cafeaconcagua.cl" port="21" password="dfdedfcfdfc9dfc4dfc5df9bdf9fdf9adf9b" username="cafeb@cafeaconcagua.cl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

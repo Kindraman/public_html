@@ -1,0 +1,132 @@
+[01-Jun-2016 21:57:59 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 21:57:59 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 21:58:11 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 21:58:11 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:00:14 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:00:14 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:00:44 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:00:49 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:01:18 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:07:24 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:07:28 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:09:27 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:09:27 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:33:23 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:33:23 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:33:53 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:33:56 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:34:25 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:34:28 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:34:29 UTC] [WEBPAY - PROCESS - PAYMENT]	-> Iniciando el proceso de pago para 186
+[01-Jun-2016 22:34:30 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:34:30 UTC] [WEBPAY - FORM]	-> REDIRECT_URL http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/
+[01-Jun-2016 22:34:30 UTC] [WEBPAY - FORM]	-> Se utilizará /home3/admincafe/public_html/wp-content/uploads/webpay-comun/dato20160601103430.log para guardar los datos
+[01-Jun-2016 22:34:30 UTC] [WEBPAY - FORM]	-> Preparando para escribir 900000;186 en /home3/admincafe/public_html/wp-content/uploads/webpay-comun/dato20160601103430.log
+[01-Jun-2016 22:34:30 UTC] [WEBPAY - FORM]	-> ARCHIVO CERRADO
+[01-Jun-2016 22:34:30 UTC] [WEBPAY - FORM]	-> Argumentos
+[01-Jun-2016 22:34:30 UTC] Array
+(
+    [TBK_TIPO_TRANSACCION] => TR_NORMAL
+    [TBK_MONTO] => 900000
+    [TBK_ORDEN_COMPRA] => 186
+    [TBK_ID_SESION] => 20160601103430
+    [TBK_URL_EXITO] => http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/?status=success&order=186&key=wc_order_574f62f4f36e0
+    [TBK_URL_FRACASO] => http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/?status=failure&order=186&key=wc_order_574f62f4f36e0
+)
+
+[01-Jun-2016 22:34:32 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:36:15 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:36:23 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:36:23 UTC] [WEBPAY - PROCESS - PAYMENT]	-> Iniciando el proceso de pago para 186
+[01-Jun-2016 22:36:26 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[01-Jun-2016 22:36:26 UTC] [WEBPAY - FORM]	-> REDIRECT_URL http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/
+[01-Jun-2016 22:36:26 UTC] [WEBPAY - FORM]	-> Se utilizará /home3/admincafe/public_html/wp-content/uploads/webpay-comun/dato20160601103626.log para guardar los datos
+[01-Jun-2016 22:36:26 UTC] [WEBPAY - FORM]	-> Preparando para escribir 900000;186 en /home3/admincafe/public_html/wp-content/uploads/webpay-comun/dato20160601103626.log
+[01-Jun-2016 22:36:26 UTC] [WEBPAY - FORM]	-> ARCHIVO CERRADO
+[01-Jun-2016 22:36:26 UTC] [WEBPAY - FORM]	-> Argumentos
+[01-Jun-2016 22:36:26 UTC] Array
+(
+    [TBK_TIPO_TRANSACCION] => TR_NORMAL
+    [TBK_MONTO] => 900000
+    [TBK_ORDEN_COMPRA] => 186
+    [TBK_ID_SESION] => 20160601103626
+    [TBK_URL_EXITO] => http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/?status=success&order=186&key=wc_order_574f62f4f36e0
+    [TBK_URL_FRACASO] => http://cafeaconcagua.cl/index.php/wc-api/WC_Gateway_Webpayplus/?status=failure&order=186&key=wc_order_574f62f4f36e0
+)
+
+[01-Jun-2016 22:36:28 UTC] ICONO	-> http://cafeaconcagua.cl/wp-content/plugins/webpay-woocommerce-plugin/classes/assets/images/logo.png
+[02-Jun-2016 08:23:32 UTC] WPP_MAIL	-> Agregando Información extra de la Orden al Email webpayplus
+[06-Jun-2016 23:42:56 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 786432 bytes) in /home3/admincafe/public_html/wp-content/plugins/revslider/includes/googlefonts.php on line 2410
+[06-Jun-2016 23:45:28 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 786432 bytes) in /home3/admincafe/public_html/wp-content/plugins/revslider/includes/googlefonts.php on line 2410
+[13-Jun-2016 23:47:43 UTC] PHP Fatal error:  Out of memory (allocated 52166656) (tried to allocate 568879 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:49:42 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:51:04 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:52:17 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:55:30 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:57:09 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[13-Jun-2016 23:57:47 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[14-Jun-2016 00:00:21 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[14-Jun-2016 00:03:12 UTC] PHP Fatal error:  Out of memory (allocated 52428800) (tried to allocate 176593 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[14-Jun-2016 00:05:59 UTC] PHP Fatal error:  Out of memory (allocated 52166656) (tried to allocate 568879 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[14-Jun-2016 00:07:06 UTC] PHP Fatal error:  Out of memory (allocated 51904512) (tried to allocate 568881 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 631
+[12-Jul-2016 22:54:00 UTC] PHP Fatal error:  Out of memory (allocated 51380224) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 345
+[13-Jul-2016 20:08:35 UTC] WordPress database error Duplicate entry 'animation_type' for key 'PRIMARY' for query INSERT INTO `wp_responsive_menu_pro` (`name`, `value`, `created_at`) VALUES ('animation_type', 'push', '2016-07-13 20:08:35') made by require_once('wp-admin/admin.php'), do_action('admin_init'), call_user_func_array, {closure}, ResponsiveMenuPro\Database\Migration->synchronise, ResponsiveMenuPro\Database\Migration->migrateVersion2Options, ResponsiveMenuPro\Services\OptionService->createOptions, ResponsiveMenuPro\Repositories\OptionRepository->create, ResponsiveMenuPro\Database\WpDatabase->insert
+[13-Jul-2016 20:08:35 UTC] WordPress database error Duplicate entry 'menu_word_wrap' for key 'PRIMARY' for query INSERT INTO `wp_responsive_menu_pro` (`name`, `value`, `created_at`) VALUES ('menu_word_wrap', 'off', '2016-07-13 20:08:35') made by require_once('wp-admin/admin.php'), do_action('admin_init'), call_user_func_array, {closure}, ResponsiveMenuPro\Database\Migration->synchronise, ResponsiveMenuPro\Database\Migration->migrateVersion2Options, ResponsiveMenuPro\Services\OptionService->createOptions, ResponsiveMenuPro\Repositories\OptionRepository->create, ResponsiveMenuPro\Database\WpDatabase->insert
+[13-Jul-2016 20:09:56 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[13-Jul-2016 20:09:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home3/admincafe/public_html/wp-includes/update.php on line 306
+[13-Jul-2016 20:09:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home3/admincafe/public_html/wp-includes/update.php on line 306
+[03-Aug-2016 23:59:52 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[03-Aug-2016 23:59:52 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_shipping_zone_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[03-Aug-2016 23:59:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home3/admincafe/public_html/wp-includes/update.php on line 306
+[03-Aug-2016 23:59:53 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 72 bytes) in /home3/admincafe/public_html/wp-includes/wp-db.php on line 2352
+[04-Aug-2016 16:10:43 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 351665 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:53:29 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 283111 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:53:47 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 283111 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:54:21 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 283111 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:54:31 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 283111 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:54:38 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 283111 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 01:59:58 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 283381 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 02:34:45 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 123349 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 02:35:08 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 17103 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 02:35:29 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 17103 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 02:46:51 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 128721 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 14:50:32 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 79081 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 15:16:20 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 58191 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 20:33:52 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 268469 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 20:34:09 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 268469 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 20:57:55 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 47695 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 20:58:16 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 105681 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[08-Aug-2016 22:08:36 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 163129 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[09-Aug-2016 01:51:17 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 349237 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[09-Aug-2016 16:51:23 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 270866 bytes) in /home3/admincafe/public_html/wp-includes/class-wp-http-curl.php on line 343
+[09-Aug-2016 16:51:42 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 262849 bytes) in /home3/admincafe/public_html/wp-includes/class-wp-http-curl.php on line 343
+[09-Aug-2016 16:52:26 UTC] PHP Fatal error:  Out of memory (allocated 55836672) (tried to allocate 94415 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[09-Aug-2016 17:25:15 UTC] PHP Fatal error:  Out of memory (allocated 55574528) (tried to allocate 310073 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[10-Aug-2016 14:11:17 UTC] PHP Fatal error:  Out of memory (allocated 51642368) (tried to allocate 3072 bytes) in /home3/admincafe/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/vc-tta-section.php on line 127
+[10-Aug-2016 14:11:23 UTC] PHP Fatal error:  Out of memory (allocated 51642368) (tried to allocate 3072 bytes) in /home3/admincafe/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/vc-tta-section.php on line 127
+[10-Aug-2016 14:11:53 UTC] PHP Fatal error:  Out of memory (allocated 51642368) (tried to allocate 3072 bytes) in /home3/admincafe/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/vc-tta-section.php on line 26
+[10-Aug-2016 14:12:37 UTC] PHP Fatal error:  Out of memory (allocated 51380224) (tried to allocate 3072 bytes) in /home3/admincafe/public_html/wp-content/plugins/js_composer/include/classes/shortcodes/vc-tta-section.php on line 113
+[10-Aug-2016 19:28:31 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:28:39 UTC] PHP Fatal error:  Out of memory (allocated 55312384) (tried to allocate 69199 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[10-Aug-2016 19:54:21 UTC] PHP Fatal error:  Out of memory (allocated 55050240) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:56:05 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:57:56 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:58:26 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:58:42 UTC] PHP Fatal error:  Out of memory (allocated 52953088) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:59:35 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 19:59:47 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 20:01:31 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 20:03:35 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 20:03:53 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 20:04:07 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[10-Aug-2016 20:05:32 UTC] PHP Fatal error:  Out of memory (allocated 54788096) (tried to allocate 262209 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 369
+[11-Aug-2016 02:13:29 UTC] PHP Fatal error:  Out of memory (allocated 57409536) (tried to allocate 169985 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[11-Aug-2016 03:01:48 UTC] PHP Fatal error:  Out of memory (allocated 57147392) (tried to allocate 413493 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 660
+[14-Oct-2016 00:15:38 UTC] PHP Fatal error:  Out of memory (allocated 59768832) (tried to allocate 214228 bytes) in /home3/admincafe/public_html/wp-includes/class-requests.php on line 381
+[14-Oct-2016 01:09:34 UTC] PHP Fatal error:  Out of memory (allocated 59506688) (tried to allocate 214228 bytes) in /home3/admincafe/public_html/wp-includes/Requests/Transport/cURL.php on line 412
+[14-Oct-2016 01:22:21 UTC] PHP Fatal error:  Out of memory (allocated 59506688) (tried to allocate 188846 bytes) in /home3/admincafe/public_html/wp-includes/Requests/Transport/cURL.php on line 483
+[14-Oct-2016 01:24:05 UTC] PHP Fatal error:  Out of memory (allocated 58982400) (tried to allocate 647982 bytes) in /home3/admincafe/public_html/wp-content/plugins/wp-smushit/lib/class-wp-smush.php on line 608
+[14-Oct-2016 01:31:31 UTC] PHP Fatal error:  Out of memory (allocated 59506688) (tried to allocate 182601 bytes) in /home3/admincafe/public_html/wp-includes/Requests/Transport/cURL.php on line 483
+[14-Oct-2016 01:31:52 UTC] PHP Fatal error:  Out of memory (allocated 59768832) (tried to allocate 647982 bytes) in /home3/admincafe/public_html/wp-includes/class-requests.php on line 363
+[14-Oct-2016 01:34:20 UTC] PHP Fatal error:  Out of memory (allocated 57409536) (tried to allocate 214228 bytes) in /home3/admincafe/public_html/wp-includes/Requests/Transport/cURL.php on line 412
+[14-Oct-2016 01:35:07 UTC] PHP Fatal error:  Out of memory (allocated 59768832) (tried to allocate 214228 bytes) in /home3/admincafe/public_html/wp-includes/class-requests.php on line 381

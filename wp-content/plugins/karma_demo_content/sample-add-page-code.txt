@@ -1,0 +1,30 @@
+/*------------------------
+Developer Note:
+
+Last number used was: $page_post_meta1025
+
+start with $page_post_meta1025 for any newly added pages.
+------------------------*/
+
+
+//Testimonials 2 + 3
+	//change variable names (numbers), to avoid crashing with later pages.	
+	$page_data1025 = array(
+  		'post_title'    => 'Testimonials 2 + 3',
+  		'post_status'   => 'publish',
+  		'post_author'   => 1,
+  		'post_content'  => '',  		
+  		'post_type'     => 'page',
+		
+	);
+
+	$page_post_meta1025 = array(
+					//set page template, which actually is a post meta!
+					'_wp_page_template'=>'template-full-width.php',
+					//'truethemes_custom_sub_menu' => 'custom-menu',
+					'truethemes_page_checkbox'=>'on',
+
+
+	);
+
+	$preset_menu_item_id['testimonials-2-3'] = tt_create_pages($page_data1025,$page_post_meta1025);	

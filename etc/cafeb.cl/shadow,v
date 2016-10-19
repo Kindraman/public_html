@@ -1,0 +1,353 @@
+head	1.22;
+access;
+symbols;
+locks
+	admincafe:1.22; strict;
+comment	@# @;
+
+
+1.22
+date	2016.02.10.21.11.15;	author admincafe;	state Exp;
+branches;
+next	1.21;
+
+1.21
+date	2016.02.10.21.11.08;	author admincafe;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2016.02.10.21.11.08;	author admincafe;	state Exp;
+branches;
+next	1.19;
+
+1.19
+date	2016.02.09.13.49.49;	author admincafe;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2016.02.09.13.47.04;	author admincafe;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2016.02.09.13.47.04;	author admincafe;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2016.02.09.01.47.31;	author admincafe;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2016.02.08.16.59.38;	author admincafe;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2016.02.08.16.48.54;	author admincafe;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2016.02.08.16.48.28;	author admincafe;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2016.02.08.16.44.05;	author admincafe;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2016.02.08.16.40.04;	author admincafe;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2016.02.08.16.34.34;	author admincafe;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2016.02.08.16.32.19;	author admincafe;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2016.02.08.16.31.02;	author admincafe;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2016.02.08.16.29.21;	author admincafe;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2016.02.08.16.28.38;	author admincafe;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2016.02.08.16.26.15;	author admincafe;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2016.02.08.16.22.18;	author admincafe;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.02.08.16.17.23;	author admincafe;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.02.08.16.15.36;	author admincafe;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.02.08.16.15.36;	author admincafe;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.22
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@administracion:$1$XeXHov7x$qITx4/LUucnEOlOGU1Gdp/:16839::::::
+abastecimiento:$1$HNmBys/E$m/lSMAHphkU61/5zjNZkQ1:16839::::::
+diseno:$1$mAHzy704$2M.nFxMhf1TyTQDcMia9D/:16839::::::
+contacto:$1$iKDmGPXE$Pbk/lk8bsFBXcAP6XVNHP.:16839::::::
+arte:$1$24io5RS8$GiDQC5JrbUUQNr2axiEG21:16839::::::
+rse:$1$/crT0No5$MMmgtZvaiOI46zLzy8kQ//:16839::::::
+produccion:$1$mkDILN.u$wPB6Qx2vsJha7AeIiKH0x1:16839::::::
+comunidad:$1$OSFM35RP$9kftnJLg/E.3AnyKIt6710:16839::::::
+coordinacion:$1$WtDvG78E$Qq7MFXFYY2PkY0jnBvT7f/:16839::::::
+equipo:$1$6nJ77szp$/mlRNJImOTkkxd7ykvNXY1:16839::::::
+oficial:$1$OY7FUnac$pLGuC9ymi3pycuyPBaCFQ1:16839::::::
+tecnologia:$1$7pfE0tj8$qtE9smd/o421.c08T1fe9.:16840::::::
+inguz:$1$6wsh74oO$rSdEc6ECEf/XKbUnGc35c/:16841::::::
+@
+
+
+1.21
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a11 1
+ingus:$1$cn2F2bKl$OaB8DXOiD.UPGa.GtZDpV.:16840::::::
+@
+
+
+1.20
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d14 1
+@
+
+
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 13
+a13 13
+administracion:$1$PIeCJWWh$3R5I5IbkGtnyQWML3vh070:16839::::::
+abastecimiento:$1$vFX.3d8b$tJuRmk1aobqjA5iLN6arr0:16839::::::
+diseno:$1$3e43spWn$eGOKmqoF3uszwzsXTfaCW1:16839::::::
+contacto:$1$0Xfcd0d0$VaA7lL08RYasjh95yrXWr/:16839::::::
+arte:$1$2KWfWsos$CU2oYYdIzZpB/t5yopr7J.:16839::::::
+rse:$1$QRF.Y9Pt$Oekg2E8byG79zpXU3BRVi.:16839::::::
+produccion:$1$hWksGPQy$.gHBygHWQrFnmSRdnDqcC.:16839::::::
+comunidad:$1$K0ya58BS$P1kxz3e3OzxxtDiOpEyRp1:16839::::::
+coordinacion:$1$D8STbc.g$sMV8LD0sTCu4BKqZEm8.a.:16839::::::
+equipo:$1$ih3yaQ/D$0i/mj9WHd57V/V8hH5PyI.:16839::::::
+oficial:$1$VBr2Wj/B$xtMVdodX/HwVz2cOFAmSr1:16839::::::
+ingus:$1$2sdLI2Dq$9qy7jGG1h.a/W/IGHq3Ea1:16840::::::
+tecnologia:$1$00/z0Xj4$Q9kUqYdc/ZuIpgkJlNgUI.:16840::::::
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d13 1
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a10 1
+tencnologia:$1$cS2nWrRO$Bzyj8JR6WURJ0K7TlEwSh0:16839::::::
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+a4 1
+contacto:$1$letQgvFv$Hk1G8I1w55nep6C/iUfNv/:16839::::::
+d11 1
+a11 1
+tencnologia:$1$KdBkrKbw$PsMYfdROdNgQ9hFF8EWPn0:16839::::::
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d13 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a11 1
+tecnologia:$1$IWKbfVxV$N1wR.DVMx3i3gto/m71Xq/:16839::::::
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d12 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d11 1
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d10 1
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

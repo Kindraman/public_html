@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: fa\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Alternate Text"
+msgstr "متن جایگزین"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Animation Speed"
+msgstr "سرعت انیمیشن"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Background color for caption"
+msgstr "رنگ پس زمینه برای عنوان"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Color"
+msgstr "رنگ لبه"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Radius"
+msgstr "مرزی شعاع"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Style"
+msgstr "سبک حاشیه"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Width"
+msgstr "عرض مرز"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Box Shadow for border. (h-shadow v-shadow blur spread color). It will work in Pro Version "
+msgstr "جعبه سایه برای مرز. (H-سایه یا سایه تاری رنگ گسترش). این در نسخه حرفه ای کار خواهد کرد"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Background Color"
+msgstr "عنوان رنگ پس زمینه"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text"
+msgstr "عنوان متن"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text Color"
+msgstr "عنوان رنگ متن"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose border type"
+msgstr "انتخاب نوع مرز"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose hover effect"
+msgstr "انتخاب اثر شناور"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Eg: 1s or 500ms. It will work in Pro Version"
+msgstr "به عنوان مثال: 1S یا 500ms. این در نسخه حرفه ای کار خواهد کرد"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Enter URL to link caption"
+msgstr "را وارد کنید آدرس را لینک عنوان"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Hover Effect"
+msgstr "اثر شناور"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Image"
+msgstr "تصویر"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as alt attribute of img tag"
+msgstr "آن را به عنوان صفت alt از تگ img استفاده"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as title attribute of img tag"
+msgstr "آن را به عنوان ویژگی عنوان از تگ img استفاده"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link Target"
+msgstr "پیوند هدف"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link To"
+msgstr "لینک به"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Provide Caption Here"
+msgstr "ارائه زیرنویس در اینجا"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Radius of border eg: 5px or 50%. It will work in Pro Version. "
+msgstr "شعاع مثلا مرز: 5px را وارد کنید و یا 50٪ است. این در نسخه حرفه ای کار خواهد کرد."
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the color for border"
+msgstr "انتخاب رنگ مرز"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the image"
+msgstr "تصویر را انتخاب کنید"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Shadow"
+msgstr "سایه"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Text color for caption"
+msgstr "رنگ متن برای عنوان"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Title"
+msgstr "عنوان"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Width of border, eg: 15px. Leaving blank will disable border"
+msgstr "عرض از مرز، به عنوان مثال: 15px. ترک خالی را به مرز غیر فعال کردن"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Write _blank to open link in new window"
+msgstr "ارسال _blank برای باز کردن لینک در پنجره جدید"

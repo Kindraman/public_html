@@ -1,0 +1,1 @@
+[20-May-2016 06:21:00 UTC] PHP Fatal error:  Out of memory (allocated 47710208) (tried to allocate 10295 bytes) in /home3/admincafe/public_html/wp-includes/wp-db.php on line 1775

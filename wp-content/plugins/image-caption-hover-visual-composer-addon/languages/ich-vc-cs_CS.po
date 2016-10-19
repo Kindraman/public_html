@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: cs\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Alternate Text"
+msgstr "Alternativní Text"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Animation Speed"
+msgstr "Rychlost animace"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Background color for caption"
+msgstr "barva pozadí pro titulek"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Color"
+msgstr "Barva rámečku"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Radius"
+msgstr "hraniční Radius"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Style"
+msgstr "Border Style"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Width"
+msgstr "border Šířka"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Box Shadow for border. (h-shadow v-shadow blur spread color). It will work in Pro Version "
+msgstr "Box stín na hranici. (H-shadow nebo stín rozmazání spread barva). Bude působit ve verzi Pro"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Background Color"
+msgstr "Legenda barev pozadí"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text"
+msgstr "Titulek Text"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text Color"
+msgstr "Titulek Text Color"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose border type"
+msgstr "Vyberte typ ohraničení"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose hover effect"
+msgstr "Vyberte si vznášet efekt"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Eg: 1s or 500ms. It will work in Pro Version"
+msgstr "Např: 1s nebo 500ms. Bude působit ve verzi Pro"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Enter URL to link caption"
+msgstr "Zadejte URL odkazy titulek"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Hover Effect"
+msgstr "hover efekt"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Image"
+msgstr "Obraz"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as alt attribute of img tag"
+msgstr "Bude se používat jako alt atribut značky img"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as title attribute of img tag"
+msgstr "Bude použit jako atribut titulu značky img"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link Target"
+msgstr "Link Target"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link To"
+msgstr "odkaz na"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Provide Caption Here"
+msgstr "Poskytnout titulek Zde"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Radius of border eg: 5px or 50%. It will work in Pro Version. "
+msgstr "Rádius hraniční např: 5px nebo 50%. Bude působit ve verzi Pro."
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the color for border"
+msgstr "Vyberte barvu ohraničení"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the image"
+msgstr "Vyberte obraz"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Shadow"
+msgstr "Stín"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Text color for caption"
+msgstr "Barva textu pro titulek"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Title"
+msgstr "Titul"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Width of border, eg: 15px. Leaving blank will disable border"
+msgstr "Šířka okraje, např: 15px. Opouštět prázdné zakáže hranice"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Write _blank to open link in new window"
+msgstr "Napište _blank otevřít odkaz v novém okně"

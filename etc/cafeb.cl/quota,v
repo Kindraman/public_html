@@ -1,0 +1,143 @@
+head	1.9;
+access;
+symbols;
+locks
+	admincafe:1.9; strict;
+comment	@# @;
+
+
+1.9
+date	2016.02.08.16.34.44;	author admincafe;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2016.02.08.16.29.21;	author admincafe;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2016.02.08.16.21.01;	author admincafe;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2016.02.08.16.20.52;	author admincafe;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2016.02.08.16.20.26;	author admincafe;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2016.02.08.16.20.13;	author admincafe;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.02.08.16.17.23;	author admincafe;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.02.08.16.15.36;	author admincafe;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.02.08.16.15.36;	author admincafe;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+rse:524288000
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+administracion:262144000
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+abastecimiento:262144000
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+administracion:524288000
+d2 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+a2 1
+abastecimiento:524288000
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

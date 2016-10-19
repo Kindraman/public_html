@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.8.8\n"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Alternate Text"
+msgstr "替代文本"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Animation Speed"
+msgstr "动画速度"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Background color for caption"
+msgstr "背景颜色为标题"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Color"
+msgstr "边框颜色"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Radius"
+msgstr "圆角半径"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Style"
+msgstr "边框样式"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Border Width"
+msgstr "边框宽度"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Box Shadow for border. (h-shadow v-shadow blur spread color). It will work in Pro Version "
+msgstr "专栏阴影边框。 （H-阴影或阴影模糊蔓色彩）。它将在Pro版本中运行"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Background Color"
+msgstr "标题背景颜色"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text"
+msgstr "标题文本"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Caption Text Color"
+msgstr "标题的文本颜色"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose border type"
+msgstr "选择边框类型"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Choose hover effect"
+msgstr "选择悬停效果"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Eg: 1s or 500ms. It will work in Pro Version"
+msgstr "例如：1或500毫秒。它将在Pro版本中运行"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Enter URL to link caption"
+msgstr "输入网址链接标题"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Hover Effect"
+msgstr "悬停效果"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Image"
+msgstr "图片"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as alt attribute of img tag"
+msgstr "它将被用作img标签的alt属性"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "It will be used as title attribute of img tag"
+msgstr "它将被用作img标签的title属性"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link Target"
+msgstr "链接目标"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Link To"
+msgstr "链接到"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Provide Caption Here"
+msgstr "提供字幕这里"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Radius of border eg: 5px or 50%. It will work in Pro Version. "
+msgstr "边界例如半径：5像素或50％。它将在Pro版本。"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the color for border"
+msgstr "选择边框的颜色"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Select the image"
+msgstr "选择图像"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Shadow"
+msgstr "阴影"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Text color for caption"
+msgstr "文本颜色为标题"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Title"
+msgstr "标题"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Width of border, eg: 15px. Leaving blank will disable border"
+msgstr "边框宽度，如：15px的。留下空白将关闭边境"
+
+#. Text in function
+#: 6.0/includes/settings.php:1
+msgid "Write _blank to open link in new window"
+msgstr "写_blank打开新窗口的链接"
